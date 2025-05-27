@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+.navbar-nav .nav-link,
+  .navbar,
+  .dropdown-mb_encode_numericentity {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+  }
+
+  .bg-primary {
+    background-color: #2172BE ;
+  }
+
+.accordion-body {
+  text-align: justify !important;
+}
